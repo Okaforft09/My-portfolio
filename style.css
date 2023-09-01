@@ -1,0 +1,39 @@
+#logo{
+    font-family: 'Great Vibes', cursive;
+     font-weight: bold;
+    padding: 1rem 3rem;
+    font-size: 2rem;
+
+}
+main{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 3rem;
+    font-family: great vibes;
+    font-size: 70px;
+    padding-bottom: 10rem
+}
+img{
+    width: 500px;
+    height: 500px;
+    justify-content: center;
+    padding-left: 7rem;
+    padding-right: 7rem;
+    border-radius: 70%;
+     }
+     .row{
+      padding: 3rem;
+     }
+     footer{
+        background-color: black;
+        color: blue;
+     }
+     h1,h3,p{
+        color: blue;
+     }
+     .content li:hover{
+        background-color: yellow;
+        border-radius: 2rem;
+        transition: 1s;
+     }
