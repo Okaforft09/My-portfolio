@@ -15,12 +15,14 @@ main{
     padding-bottom: 10rem
 }
 img{
-    width: 500px;
+    /* width: 500px;
+    height: 500px; */
     height: 500px;
+    width: 500px;
     justify-content: center;
     padding-left: 7rem;
     padding-right: 7rem;
-    border-radius: 70%;
+    border-radius: 50%;
      }
      .row{
       padding: 3rem;
