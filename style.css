@@ -28,6 +28,8 @@ img{
      footer{
         background-color: black;
         color: blue;
+        padding-bottom: 10rem;
+        text-align: center;
      }
      h1,h3,p{
         color: blue;
